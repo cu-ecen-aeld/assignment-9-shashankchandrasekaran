@@ -1,5 +1,5 @@
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_LDD_VERSION = 8755d1827e787b8b20c3ddb0ee2a0a92e66410e9
+AESD_LDD_VERSION = 3902b8a3f7579c403d1715949497a7d4bdade4ab
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
